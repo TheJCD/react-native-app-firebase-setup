@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1af7c3e2-d22b-4b1f-b5ff-a86f86242389" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fitness-app" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fitness-mobile-app-expo-go-old/.expo/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fitness-mobile-app-expo-go-old/.expo/settings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fitness-mobile-app-expo-go-old/Fitnessapp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FitnessApp/eas.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fitness-app-working-desktop-only-sign-in/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fitness-app-working-desktop-only-sign-in/App.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fitness-app-working-desktop-only-sign-in/Dashboard.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fitness-app-working-desktop-only-sign-in/Dashboard.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fitness-app-working-desktop-only-sign-in/Login.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fitness-app-working-desktop-only-sign-in/Login.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fitness-app-working-desktop-only-sign-in/Register.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fitness-app-working-desktop-only-sign-in/Register.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fitness-app-working-desktop-only-sign-in/Reset.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fitness-app-working-desktop-only-sign-in/Reset.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fitness-app-working-desktop-only-sign-in/app.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fitness-app-working-desktop-only-sign-in/assets/adaptive-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fitness-app-working-desktop-only-sign-in/assets/favicon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fitness-app-working-desktop-only-sign-in/assets/icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fitness-app-working-desktop-only-sign-in/assets/splash.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fitness-app-working-desktop-only-sign-in/babel.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fitness-app-working-desktop-only-sign-in/firebase.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fitness-app-working-desktop-only-sign-in/google-services.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fitness-app-working-desktop-only-sign-in/keystore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fitness-app-working-desktop-only-sign-in/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fitness-app-working-desktop-only-sign-in/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mars-app" beforeDir="false" afterPath="$PROJECT_DIR$/../mars-app" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../microservice-app/client" beforeDir="false" afterPath="$PROJECT_DIR$/../microservice-app/client" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my-angular-app" beforeDir="false" afterPath="$PROJECT_DIR$/../my-angular-app" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../things-to-save/Dev/aqa-demo" beforeDir="false" afterPath="$PROJECT_DIR$/../things-to-save/Dev/aqa-demo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../things-to-save/react-native-app/about-react-dummy-apis" beforeDir="false" afterPath="$PROJECT_DIR$/../things-to-save/react-native-app/about-react-dummy-apis" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../things-to-save/ultimate-react-course-main/counterchallenge" beforeDir="false" afterPath="$PROJECT_DIR$/../things-to-save/ultimate-react-course-main/counterchallenge" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../things-to-save/ultimate-react-course-main/james-profile-card-challenge" beforeDir="false" afterPath="$PROJECT_DIR$/../things-to-save/ultimate-react-course-main/james-profile-card-challenge" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../things-to-save/ultimate-react-course-main/pizza-menu" beforeDir="false" afterPath="$PROJECT_DIR$/../things-to-save/ultimate-react-course-main/pizza-menu" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../things-to-save/ultimate-react-course-main/react-flashcards" beforeDir="false" afterPath="$PROJECT_DIR$/../things-to-save/ultimate-react-course-main/react-flashcards" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../things-to-save/ultimate-react-course-main/steps" beforeDir="false" afterPath="$PROJECT_DIR$/../things-to-save/ultimate-react-course-main/steps" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../things-to-save/ultimate-react-course-main/travel-list" beforeDir="false" afterPath="$PROJECT_DIR$/../things-to-save/ultimate-react-course-main/travel-list" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2fBw2Dkx7tVap4LgVbX6KkUUoFa" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
+    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/jamescleworth/Documents/FindMyPT&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;AndroidSdkUpdater&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1af7c3e2-d22b-4b1f-b5ff-a86f86242389" name="Changes" comment="" />
+      <created>1713287569721</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1713287569721</updated>
+    </task>
+    <servers />
+  </component>
+</project>
