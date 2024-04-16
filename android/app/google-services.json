@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "448644522866",
+    "project_id": "findmypt-45f51",
+    "storage_bucket": "findmypt-45f51.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:448644522866:android:066c8902efdeb450c273eb",
+        "android_client_info": {
+          "package_name": "com.thejcd.FindMyPT"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAH5TLWb1WFMzbPMcKRfigFfZ7d8gd4H4g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
