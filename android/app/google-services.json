@@ -1,41 +1,41 @@
 {
   "project_info": {
-    "project_number": "448644522866",
-    "project_id": "findmypt-45f51",
-    "storage_bucket": "findmypt-45f51.appspot.com"
+    "project_number": "xxxxxx",
+    "project_id": "xxxxxx-45f51",
+    "storage_bucket": "xxxxxxxx.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:448644522866:android:066c8902efdeb450c273eb",
+        "mobilesdk_app_id": "xxxxxx",
         "android_client_info": {
-          "package_name": "com.thejcd.FindMyPT"
+          "package_name": "com.xxxxx.xxxxx"
         }
       },
       "oauth_client": [
         {
-          "client_id": "448644522866-mp72la5rrf6e5tlg3a0g0o3l0o4259rg.apps.googleusercontent.com",
+          "client_id": "xxxxxxxx.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
-            "package_name": "com.thejcd.FindMyPT",
-            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+            "package_name": "com.xxxxx.xxxx",
+            "certificate_hash": "xxxxxx"
           }
         },
         {
-          "client_id": "448644522866-p6i37p7ef4m4p5ntrf5subah555pkcbr.apps.googleusercontent.com",
+          "client_id": "xxxxxxx.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyAH5TLWb1WFMzbPMcKRfigFfZ7d8gd4H4g"
+          "current_key": "xxxxx"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "448644522866-p6i37p7ef4m4p5ntrf5subah555pkcbr.apps.googleusercontent.com",
+              "client_id": "xxxxx.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
